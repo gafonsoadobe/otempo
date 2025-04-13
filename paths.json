@@ -3,4 +3,5 @@
     "/content/otempo/:/",
     "/content/otempo/metadata.json:/metadata.json",
     "/content/otempo/redirects.json:/redirects.json"
+  ]
 }
