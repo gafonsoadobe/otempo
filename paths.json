@@ -1,7 +1,10 @@
 {
   "mappings": [
     "/content/otempo/:/",
-    "/content/otempo/metadata.json:/metadata.json",
-    "/content/otempo/redirects.json:/redirects.json"
+    "/content/otempo/configuration:/.helix/config.json",
+    "/content/otempo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/otempo/"
   ]
 }
